@@ -1,0 +1,56 @@
+# Travel and Expense Reimbursement Policy
+
+## Eligible Expenses
+
+### Travel Expenses
+- Airfare (economy class for domestic, business class for international flights over 6 hours)
+- Hotel accommodation (standard business rate, up to $200/night domestic, $300/night international)
+- Ground transportation (taxi, rental car, public transit)
+- Meals during business travel (per diem rates apply)
+
+### Business Expenses
+- Client entertainment (requires pre-approval for amounts over $100)
+- Conference and training fees
+- Business-related parking and tolls
+- Internet and phone charges during travel
+
+## Reimbursement Process
+
+1. **Submit within 30 days**: All expense reports must be submitted within 30 days of the expense date
+2. **Required documentation**: 
+   - Original receipts for all expenses over $25
+   - Business justification for each expense
+   - Completed expense report form
+3. **Approval process**:
+   - Manager approval required for all reports
+   - Finance department review for amounts over $1,000
+   - CEO approval for expenses over $5,000
+
+## Submission Methods
+
+### Online Portal
+- Access expense.company.com
+- Upload receipts and fill out digital forms
+- Track approval status in real-time
+
+### Email Submission
+- Send to expenses@company.com
+- Include scanned receipts and completed form
+- Subject line: "Expense Report - [Your Name] - [Month/Year]"
+
+## Reimbursement Timeline
+- Standard processing: 7-10 business days after approval
+- Direct deposit to your registered bank account
+- Check payments available upon request (additional 3-5 days)
+
+## Non-Reimbursable Expenses
+- Personal meals when not traveling
+- Alcohol (unless specifically for client entertainment)
+- Personal entertainment
+- Speeding tickets or parking violations
+- Expenses without proper documentation
+
+## Contact
+- Expense questions: expenses@company.com
+- Policy clarifications: finance@company.com
+- Emergency travel approval: travel@company.com

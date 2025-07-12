@@ -1,0 +1,44 @@
+# Sample HR Policy Document - Employee Leave
+
+## Leave Policy Overview
+
+### Annual Leave
+- All full-time employees are entitled to 25 days of annual leave per year
+- Leave must be requested at least 2 weeks in advance
+- Submit leave requests through the HR portal or email hr@company.com
+- Maximum of 5 consecutive days can be carried over to the next year
+
+### Sick Leave
+- Employees receive 10 days of sick leave per year
+- No advance notice required for sick leave
+- Medical certificate required for absences longer than 3 consecutive days
+- Unused sick leave does not carry over
+
+### Personal Leave
+- 3 days of personal leave available per year
+- Can be used for personal emergencies or family matters
+- Requires manager approval
+- Must be requested with as much notice as possible
+
+### Maternity/Paternity Leave
+- 12 weeks paid maternity leave
+- 4 weeks paid paternity leave
+- Additional unpaid leave available upon request
+- Must notify HR at least 4 weeks before expected leave date
+
+## How to Apply for Leave
+
+1. Log into the HR portal at hr.company.com
+2. Navigate to "Leave Requests"
+3. Select the type of leave
+4. Choose your dates
+5. Add a brief description
+6. Submit for manager approval
+7. You will receive email confirmation once approved
+
+For urgent requests, contact your manager directly and follow up with formal submission.
+
+## Contact Information
+- HR Department: hr@company.com
+- Phone: (555) 123-4567
+- Portal: hr.company.com
